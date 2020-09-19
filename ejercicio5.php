@@ -69,7 +69,7 @@ function calcularSalario(){
         return ' El valor a pagar a ' . $nombre . ' Es la suma semanal de: $ ' . $totalNomina ;
             
     }else{
-        return 'porfavor ingrese valores';
+        return 'porfavor  ingrese los valores';
     }
 
 }
